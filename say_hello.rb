@@ -5,5 +5,5 @@ end
 
 say_hello = (Coder, Ruby)
 
-puts say_hello
+print 
 
