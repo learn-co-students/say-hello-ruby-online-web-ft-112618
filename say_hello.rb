@@ -3,3 +3,5 @@ def say_hello (name, language)
   puts "Hello #{name}, we heard you are a good #{language} programmer"
 end 
 
+say_hello = (Coder, Ruby)
+
